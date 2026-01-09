@@ -1,4 +1,7 @@
 # LeetCodeSolutions
-<span style="padding:10px;background-color:#f0f0f0"> 
-  This repository holds my solutions to LeetCode Problems.
-</span>
+This repository holds my solutions to LeetCode Problems.
+
+I will try to provide:
+- Full explanation of my thinking
+- Write them in more than one programming language
+
